@@ -19,8 +19,8 @@
 | [Quest 11](https://everybody.codes/event/2024/quests/11) | Biological Warfare      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 12](https://everybody.codes/event/2024/quests/12) | Desert Shower      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 13](https://everybody.codes/event/2024/quests/13) | Never Gonna Let You Down      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 14](https://everybody.codes/event/2024/quests/14) | From the Herbalist's Diary      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 15](https://everybody.codes/event/2024/quests/15) | [Challenge name]      | | | | |
+| [Quest 14](https://everybody.codes/event/2024/quests/14) | The House of Palms      | ⭐️ | ⭐️ | ⭐️ | Python |
+| [Quest 15](https://everybody.codes/event/2024/quests/15) | From the Herbalist's Diary      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 16](https://everybody.codes/event/2024/quests/16) | [Challenge name]      | | | | |
 | [Quest 17](https://everybody.codes/event/2024/quests/17) | [Challenge name]      | | | | |
 | [Quest 18](https://everybody.codes/event/2024/quests/18) | [Challenge name]      | | | | |
