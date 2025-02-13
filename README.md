@@ -21,7 +21,7 @@
 | [Quest 13](https://everybody.codes/event/2024/quests/13) | Never Gonna Let You Down      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 14](https://everybody.codes/event/2024/quests/14) | The House of Palms      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 15](https://everybody.codes/event/2024/quests/15) | From the Herbalist's Diary      | ⭐️ | ⭐️ | ⭐️ | Python |
-| [Quest 16](https://everybody.codes/event/2024/quests/16) | Cat Grin of Fortune      | ⭐️ | ⭐️ | ⭐️ | 
+| [Quest 16](https://everybody.codes/event/2024/quests/16) | Cat Grin of Fortune      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 17](https://everybody.codes/event/2024/quests/17) | [Challenge name]      | | | | |
 | [Quest 18](https://everybody.codes/event/2024/quests/18) | [Challenge name]      | | | | |
 | [Quest 19](https://everybody.codes/event/2024/quests/19) | [Challenge name]      | | | | |
