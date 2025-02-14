@@ -23,6 +23,6 @@
 | [Quest 15](https://everybody.codes/event/2024/quests/15) | From the Herbalist's Diary      | ⭐️ | ⭐️ | ⭐️ | Python |
 | [Quest 16](https://everybody.codes/event/2024/quests/16) | Cat Grin of Fortune      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 17](https://everybody.codes/event/2024/quests/17) | Galactic Geometry      | ⭐️ | ⭐️ | ⭐️ | Python | 
-| [Quest 18](https://everybody.codes/event/2024/quests/18) | [Challenge name]      | | | | |
+| [Quest 18](https://everybody.codes/event/2024/quests/18) | The Ring      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 19](https://everybody.codes/event/2024/quests/19) | [Challenge name]      | | | | |
 | [Quest 20](https://everybody.codes/event/2024/quests/20) | [Challenge name]      | | | | |
