@@ -24,5 +24,5 @@
 | [Quest 16](https://everybody.codes/event/2024/quests/16) | Cat Grin of Fortune      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 17](https://everybody.codes/event/2024/quests/17) | Galactic Geometry      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 18](https://everybody.codes/event/2024/quests/18) | The Ring      | ⭐️ | ⭐️ | ⭐️ | Python | 
-| [Quest 19](https://everybody.codes/event/2024/quests/19) | [Challenge name]      | | | | |
+| [Quest 19](https://everybody.codes/event/2024/quests/19) | Encrypted Duck      | ⭐️ | ⭐️ | ⭐️ | Python | 
 | [Quest 20](https://everybody.codes/event/2024/quests/20) | [Challenge name]      | | | | |
